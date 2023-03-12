@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "640e393960029003edc3fa43",
+    "isActive": false,
+    "name": "Shepard Parrish",
+    "files": [
+      "/getTeacherLibrary/proident.pdf",
+      "/getTeacherLibrary/occaecat.pdf"
+    ]
+  },
+  {
+    "_id": "640e3939e4d05c39892b04f5",
+    "isActive": true,
+    "name": "Marion Nieves",
+    "files": [
+      "/getTeacherLibrary/commodo.pdf",
+      "/getTeacherLibrary/dolore.pdf"
+    ]
+  },
+  {
+    "_id": "640e39399f7e49edfd27c73d",
+    "isActive": false,
+    "name": "Clay Crosby",
+    "files": [
+      "/getTeacherLibrary/nulla.pdf",
+      "/getTeacherLibrary/minim.pdf"
+    ]
+  },
+  {
+    "_id": "640e393923337f5300365bb2",
+    "isActive": true,
+    "name": "Sherry Alexander",
+    "files": [
+      "/getTeacherLibrary/commodo.pdf",
+      "/getTeacherLibrary/deserunt.pdf"
+    ]
+  }
+]
